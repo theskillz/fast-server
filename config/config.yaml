@@ -1,0 +1,6 @@
+port: "8080"
+clickhouse:
+  address: "clickhouse:9000"
+  database: "default"
+  username: "default"
+  password: ""
